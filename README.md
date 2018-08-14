@@ -1,8 +1,9 @@
 # devops-aula02
-AC 01
+MÚSICA
 
 três artistas:
 
 Agenlina Jolie
 Megan Fox
 Paola Oliveira
+CURT KOBAIN
